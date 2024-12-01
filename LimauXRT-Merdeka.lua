@@ -13,6 +13,7 @@ local G2L = {};
 -- StarterGui.merdeka
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
 G2L["1"]["Name"] = [[merdeka]];
+G2L["1"]["ResetOnSpawn"] = False
 G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 
 

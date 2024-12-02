@@ -1045,7 +1045,7 @@ G2L["63"]["TextColor3"] = Color3.fromRGB(161, 161, 161);
 G2L["63"]["BackgroundTransparency"] = 1;
 G2L["63"]["Size"] = UDim2.new(0, 197, 0, 25);
 G2L["63"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["63"]["Text"] = [[Thunder Client]];
+G2L["63"]["Text"] = [[FE Unanchored GUI]];
 G2L["63"]["Position"] = UDim2.new(0.04555, 0, 0.02151, 6);
 
 
@@ -1096,7 +1096,7 @@ G2L["69"]["TextColor3"] = Color3.fromRGB(255, 107, 107);
 G2L["69"]["BackgroundTransparency"] = 1;
 G2L["69"]["Size"] = UDim2.new(0, 197, 0, 25);
 G2L["69"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["69"]["Text"] = [[KEY SYSTEM!]];
+G2L["69"]["Text"] = [[bit laggy tho]];
 G2L["69"]["Position"] = UDim2.new(0.04555, 0, 0.58065, 6);
 
 
